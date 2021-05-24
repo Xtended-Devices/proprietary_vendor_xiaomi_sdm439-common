@@ -8,3 +8,4 @@ PRODUCT_SOONG_NAMESPACES += \
 # Inherit fragments
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-keymaster.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-gatekeeper.mk)
+$(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-partial_ril.mk)
