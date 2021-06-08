@@ -16,3 +16,4 @@ $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-partial
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-qcrild.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-qtee.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-sensors.mk)
+$(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-wifi.mk)
