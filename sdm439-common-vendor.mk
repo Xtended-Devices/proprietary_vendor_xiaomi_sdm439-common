@@ -11,7 +11,6 @@ $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-camera_
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-firmware.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-keymaster.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-gatekeeper.mk)
-$(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-gralloc.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-partial_ril.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-qcrild.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-qtee.mk)
