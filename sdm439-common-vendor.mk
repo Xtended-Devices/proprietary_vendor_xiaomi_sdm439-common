@@ -8,6 +8,7 @@ PRODUCT_SOONG_NAMESPACES += \
 # Inherit fragments
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-adsp_modules.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-camera_hidl.mk)
+$(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-charger.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-firmware.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-keymaster.mk)
 $(call inherit-product, vendor/xiaomi/sdm439-common/sdm439-common-vendor-gatekeeper.mk)
